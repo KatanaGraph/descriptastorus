@@ -1,3 +1,10 @@
+KatanaGraph DescriptaStorus
+===========================
+
+A fork of https://github.com/KatanaGraph/descriptastorus solely for the purpose of making new tags to track commits in that repo since https://github.com/bp-kelley/descriptastorus/releases/tag/2.4.0. If the origin repo starts to tag new merges to master again, this repo will be removed. Request has been made here: https://github.com/bp-kelley/descriptastorus/issues/16.
+
+The tags are used to create https://anaconda.org/KatanaGraph/descriptastorus via https://github.com/KatanaGraph/staged-recipes/tree/descriptastorus-feedstock.
+
 DescriptaStorus
 ===============
 
